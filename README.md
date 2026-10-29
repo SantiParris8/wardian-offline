@@ -17,6 +17,8 @@ An unofficial, locally modified Windows x64 build of Wardian with minimap-based 
 - Kokoro male or Zira female recordings for all 31 active callouts.
 - A summary covering all 13 alert switches.
 
+Both voices include complete lane destinations for roaming warnings. Speech finishes before the next alert starts; urgent alerts go next, while stale queued alerts and duplicate cues are discarded. A warning may wait for the current sentence to finish.
+
 Existing League display and HUD settings do not need to be changed. Detection depends on visible minimap information and role identification; alerts can be missed or incorrect. The current capture loop requires an enemy carrying Smite in a supported Summoner’s Rift match. Experimental tuning and cross-lane behavior still need broader gameplay validation.
 
 ## Updates
