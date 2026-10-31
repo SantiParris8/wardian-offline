@@ -16,6 +16,7 @@ An unofficial, locally modified Windows x64 build of Wardian with minimap-based 
 - Enemy lane-roam warnings covering top, mid, ADC and support in other lane corridors.
 - Kokoro male or Zira female recordings for all 31 active callouts.
 - A summary covering all 13 alert switches.
+- Saved appearance selector: Current, Sakura pink and white, Midnight neon, and Lavender moon. The themed windows have rounded shapes and small artwork over the upper-left corner. Artwork uses its own alpha layer and stays grouped with Wardian.
 
 Both voices include complete lane destinations for roaming warnings. Speech finishes before the next alert starts; urgent alerts go next, while stale queued alerts and duplicate cues are discarded. A warning may wait for the current sentence to finish.
 
